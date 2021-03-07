@@ -1,0 +1,18 @@
+[submodule "ctrlp.vim"]
+	path = ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "jedi-vim"]
+	path = jedi-vim
+	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = https://github.com/preservim/nerdcommenter.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "tagbar"]
+	path = tagbar
+	url = https://github.com/preservim/tagbar.git
+[submodule "supertab"]
+	path = supertab
+	url = https://github.com/ervandew/supertab.git
